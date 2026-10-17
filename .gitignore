@@ -1,0 +1,25 @@
+# Flutter & Dart
+**/.dart_tool/
+**/.pub/
+**/.pub-cache/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# .NET & Visual Studio
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+__MACOSX/
+*.log
+*.tmp
+.agents/
+
